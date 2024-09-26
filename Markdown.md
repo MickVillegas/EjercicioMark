@@ -36,5 +36,3 @@ if(x == 0){
 ![Imagen de godzilla](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4kXb5H3u3_N_ZHeuB_rsxKOgpYroVRiYKQ&s)  
 
 ![Godzilla minus one](./images/minusone.jfif)
-
-[Enlace a otro archivo Markdown](./Markdown.md)
